@@ -1,2 +1,2 @@
-# GNU-linux-Working-Group
+# GNU/linux Working Group
 IAUCTB GNU/linux Working Group's repository. 
