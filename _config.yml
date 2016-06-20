@@ -14,13 +14,13 @@ tagline:          'IAUCTB GNU/Linux Working Group'
 description:      'کارگروه گنو/لینوکس و سیستم‌عامل‌های شبه-یونیکس
 انجمن علمی کامپیوتر دانشگاه آزاد اسلامی تهران مرکز
 '
-url:              http://iauctb.github.io/GNU-Linux-Working-Group/
+url:              http://iauctb.github.io/GNU-Linux-Working-Group
 baseurl:          ''
 enforce_ssl:      
 
 author:
-  name:           'http://iauctb.github.io/GNU-Linux-Working-Group/'
-  url:            
+  name:           
+  url:            'http://iauctb.github.io/GNU-Linux-Working-Group/'
   email:
 
 paginate:         7
