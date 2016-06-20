@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+highlighter:      rouge
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap]
+
+# Setup
+title:            'کارگروه گنو/لینوکس'
+tagline:          'IAUCTB GNU/Linux Working Group'
+description:      'کارگروه گنو/لینوکس و سیستم‌عامل‌های شبه-یونیکس
+انجمن علمی کامپیوتر دانشگاه آزاد اسلامی تهران مرکز
+'
+url:              http://iauctb.github.io/GNU-Linux-Working-Group/
+baseurl:          ''
+enforce_ssl:      
+
+author:
+  name:           'http://iauctb.github.io/GNU-Linux-Working-Group/'
+  url:            
+  email:
+
+paginate:         7
+
+# Custom vars
+options:
+  bodyclass:			'theme-base-0c rtl'
+  license:          '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Attribution License" style="border-width:0; display: inline; margin: 0;" src="/public/cc-by.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">IAUCTB GNU/Linux Working Group</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://iauctb.github.io/GNU-Linux-Working-Group/" property="cc:attributionName" rel="cc:attributionURL">IAUCTB GNU/Linux Working Group Members</a>.'
+
+social:
+  github:       https://github.com/iauctb/GNU-Linux-Working-Group
+  telegram:			https://telegram.me/joinchat/A1VfFD2A1hg6P9BWezckfg

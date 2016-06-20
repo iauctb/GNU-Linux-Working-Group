@@ -1,0 +1,23 @@
+body .rtl {
+	direction: rtl;
+}
+
+footer .licence {
+	font-size: 15px;
+}
+
+.featuredimage {
+	width: 100%;
+	display: block;
+	margin: 0 0 1rem 0;
+	border-radius: 0;
+}
+
+.rtl .post {
+	direction: rtl;
+}
+
+.rtl .sidebar {
+	direction: rtl;
+	text-align: right
+}
