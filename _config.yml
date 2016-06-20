@@ -15,7 +15,7 @@ description:      'کارگروه گنو/لینوکس و سیستم‌عامل�
 انجمن علمی کامپیوتر دانشگاه آزاد اسلامی تهران مرکز
 '
 url:              http://iauctb.github.io/GNU-Linux-Working-Group
-baseurl:          ''
+baseurl:          '/GNU-Linux-Working-Group'
 enforce_ssl:      
 
 author:
